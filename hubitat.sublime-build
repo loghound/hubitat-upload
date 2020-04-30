@@ -1,0 +1,5 @@
+{
+
+	"shell_cmd": "python3 upload.py $file",
+
+}
